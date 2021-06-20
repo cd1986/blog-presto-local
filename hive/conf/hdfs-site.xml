@@ -1,11 +1,11 @@
 <configuration>
     <property>
         <name>fs.s3a.access.key</name>
-        <value>[YOUR_ACCESS_KEY]</value>
+        <value>minioadmin</value>
     </property>
     <property>
     <name>fs.s3a.secret.key</name>
-    <value>[YOUR_SECRET_KEY]</value>
+    <value>minioadmin</value>
     </property>
     <property>
         <name>fs.s3a.path.style.access</name>
@@ -13,6 +13,6 @@
     </property>
     <!--    <property>-->
     <!--        <name>fs.s3a.endpoint</name>-->
-    <!--        <value>[WANTED_ENDPOINT]</value>-->
+    <!--        <value>localhost:9000</value>-->
     <!--    </property>-->
 </configuration>
